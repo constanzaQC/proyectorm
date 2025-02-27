@@ -7,3 +7,4 @@ router.put("/usuario/:id",usuarioController.actualizarUsuario);
 router.delete("/usuario/:id",usuarioController.eliminarUsuario);
 router.get("/usuario/:correo",usuarioController.buscarUsuario); 
 module.exports=router;
+//creado por constanza
